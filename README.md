@@ -14,7 +14,7 @@
 ・[Windowsデータ(Windows Date)]()<br>
 
 ## 担当したプログラム(Program in charge)
-・[キャラクター挙動(Character behavior)](https://github.com/MatayoshiRen/Bworld/blob/master/19GameJam_BWorld/Assets/Script/Panel.cs)<br>
+・[キャラクター挙動(Character behavior)](https://github.com/MatayoshiRen/Bworld/blob/master/19GameJam_BWorld/Assets/Script/PlayerAni.cs)<br>
 ・[白・黒世界の切り替え(Switching between white and black worlds)]()<br>
 ・[白ブロック(White block)](https://github.com/MatayoshiRen/Bworld/blob/master/19GameJam_BWorld/Assets/Script/White.cs)<br>
 ・[黒ブロック(Black block)](https://github.com/MatayoshiRen/Bworld/blob/master/19GameJam_BWorld/Assets/Script/Black.cs)<br>
