@@ -11,7 +11,7 @@
 2D横スクロールアクション(2d horizontal scroll action)<br>
 
 ## プラットフォーム(Platoform)
-・[Windowsデータ(Windows Date)]()<br>
+・[Windows(Windows)]()<br>
 
 ## 担当したプログラム(Program in charge)
 ・[キャラクター挙動(Character behavior)](https://github.com/MatayoshiRen/Bworld/blob/master/19GameJam_BWorld/Assets/Script/PlayerAni.cs)<br>
