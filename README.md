@@ -18,5 +18,15 @@
 ・[白・黒世界の切り替え(Switching between white and black worlds)]()<br>
 ・[動かせるブロック(Movable blocks)]()<br>
 ・[ステージ配置(Stage arrangement)]()<br>
+
 ## ゲーム紹介(Game introduction)
+
+## Unityバージョン(Unity version)
+2019.1.7f1<br>
+
+## 制作期間(Production period)
+1週間(1Week)
+
+## スクリーンショット(Screenshot)
+
 
