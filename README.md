@@ -16,3 +16,5 @@
 ## 担当したプログラム(Program in charge)
 ・[キャラクター挙動(Character behavior)]()<br>
 ・[白・黒世界の切り替え(Switching between white and black worlds)]()<br>
+・[動かせるブロック(Movable blocks)]()<br>
+・[ステージ配置(Stage arrangement)]()<br>
