@@ -18,4 +18,5 @@
 ・[白・黒世界の切り替え(Switching between white and black worlds)]()<br>
 ・[動かせるブロック(Movable blocks)]()<br>
 ・[ステージ配置(Stage arrangement)]()<br>
-## ゲーム紹介
+## ゲーム紹介(Game introduction)
+
