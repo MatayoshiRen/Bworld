@@ -31,6 +31,6 @@
 
 ## スクリーンショット(Screenshot)
 ![タイトル(Title)](https://github.com/MatayoshiRen/Bworld/blob/master/ScreenShot/title1.png)
+![あそびかた(HowToplay)](https://github.com/MatayoshiRen/Bworld/blob/master/ScreenShot/HowToPlay.png)
 ![ゲーム1(game1)](https://github.com/MatayoshiRen/Bworld/blob/master/ScreenShot/game1.png)
-![ゲーム2(game2)](https://github.com/MatayoshiRen/Bworld/blob/master/ScreenShot/game2.png)
 
