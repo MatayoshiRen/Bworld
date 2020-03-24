@@ -25,11 +25,6 @@ public class PlayerAni : MonoBehaviour
 
 
         var hori = Input.GetAxisRaw("Horizontal");
-        //Vector2 temp = transform.localScale;
-        //temp.x = hori * 1.56f;
-        //var rb = GetComponent<Rigidbody2D>();
-        //var vel = rb.velocity;
-        //vel.x = hori;
         
         
         if(hori >= 0.5)
@@ -44,14 +39,12 @@ public class PlayerAni : MonoBehaviour
             www = 0;
         }
 
-        //Debug.Log(www);
 
         if (www == 1)
         {
             
             if (!Checker)
             {
-                //Debug.Log("→");
 
                 this.transform.Rotate(0, 180, 0);
                 Checker = true;
@@ -64,7 +57,6 @@ public class PlayerAni : MonoBehaviour
 
             if (Checker2)
             {
-                //Debug.Log("←");
                 
                 this.transform.Rotate(0, 180, 0);
                 Checker2 = false;
@@ -77,9 +69,6 @@ public class PlayerAni : MonoBehaviour
 
         if (hori != 0)
         {
-            /*Vector2 temp = transform.localScale;
-            temp.x = hori * 1.56f;
-            transform.localScale = temp;*/
             anim.SetBool("Dash", true);
         }
         else { anim.SetBool("Dash", false); }
