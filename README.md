@@ -30,5 +30,5 @@
 1週間(1Week)
 
 ## スクリーンショット(Screenshot)
-！[Yaktocatの画像]（https://octodex.github.com/images/yaktocat.png）
+![Yaktocatの画像](https://octodex.github.com/images/yaktocat.png)
 
