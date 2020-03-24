@@ -30,5 +30,5 @@
 1週間(1Week)
 
 ## スクリーンショット(Screenshot)
-![タイトル(Title)](https://github.com/MatayoshiRen/Bworld/ScreenShot/title1.png)
+![タイトル(Title)](https://github.com/MatayoshiRen/Bworld/blob/master/ScreenShot/title1.png)
 
