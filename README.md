@@ -30,5 +30,5 @@
 1週間(1Week)
 
 ## スクリーンショット(Screenshot)
-![title1.png](https://github.com/MatayoshiRen/Bworld/tree/master/ScreenShot"さんぷる")
+![title1.png](https://github.com/MatayoshiRen/Bworld/tree/master/ScreenShot　"title1.png")
 
