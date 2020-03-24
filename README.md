@@ -23,8 +23,8 @@
 ・[ステージ(Stage)](https://github.com/MatayoshiRen/Bworld/tree/master/19GameJam_BWorld/Assets/StageData)<br>
 ## ゲーム紹介(Game introduction)
 白い世界と黒い世界を切り替えて進むアクションゲーム<br>
-白い世界では"黒いブロック"が障害物となり、"白いブロック"があった場所は通れるようになる。<br>
-黒い世界ではその逆になる。<br>
+白い世界では"黒いブロック"が障害物となり、"白いブロック"があった場所は通れるようになる<br>
+黒い世界ではその逆になる<br>
 ## Unityバージョン(Unity version)
 2019.1.7f1<br>
 
